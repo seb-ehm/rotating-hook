@@ -62,7 +62,9 @@ module hook(){
     rotate([90,90,0])
     linear_extrude(height = 25, center = true, convexity = 10)
       circle(r = 3);
-}
+   }
+   translate([-14,0,0])
+   sphere(r=3);
     
 }
 
