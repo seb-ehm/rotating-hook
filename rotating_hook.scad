@@ -1,4 +1,4 @@
-use<path_extrude.scad>
+
 gap = 0.5;
 height=18; //30
 width=20; //25
